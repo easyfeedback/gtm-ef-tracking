@@ -1,6 +1,8 @@
 homepage: "https://easy-feedback.de/"
 documentation: "https://easy-feedback.de/help/webintegration"
 versions:
+  - sha: 96843c8c9d0172e248b8f9caafd8cbf89b4b3cf0
+    changeNotes: add category
   - sha: 40fcb82f20d8fbd203f76ee4fdaadbe96acfd964
     changeNotes: First release
   - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
