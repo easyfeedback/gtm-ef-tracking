@@ -46,10 +46,11 @@ ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 const injectScript = require('injectScript');
 const logToConsole = require('logToConsole');
 const queryPermission = require('queryPermission');
+const encodeUriComponent = require('encodeUriComponent');
 
 const trackingId = data.trackingId;
 
-const url = 'https://indivsurvey.de/integration.js?id=' + trackingId;
+const url = 'https://indivsurvey.de/integration.js?id=' + encodeUriComponent(trackingId);
 
 const log = data.debug ? logToConsole : (() => {});
 
