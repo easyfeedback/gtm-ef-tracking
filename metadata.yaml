@@ -1,5 +1,5 @@
 homepage: "https://easy-feedback.de/"
-documentation: "https://easy-feedback.de/help/webintegration"
+documentation: "https://help.easy-feedback.com/en/article/54-243"
 versions:
   - sha: 96843c8c9d0172e248b8f9caafd8cbf89b4b3cf0
     changeNotes: add category
