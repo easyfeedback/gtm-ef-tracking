@@ -2,7 +2,7 @@ homepage: "https://easy-feedback.de/"
 documentation: "https://help.easy-feedback.com/en/article/54-243"
 versions:
   - sha: 602a442fd8d1c2c8a69984e919f5fc92c3e03d69
-    changeNotes: - Minor fixes
+    changeNotes: Minor fixes
   - sha: 96843c8c9d0172e248b8f9caafd8cbf89b4b3cf0
     changeNotes: add category
   - sha: 40fcb82f20d8fbd203f76ee4fdaadbe96acfd964
